@@ -1,3 +1,4 @@
 # IpLoger
 Web Site Ziyaretçi Kayıt Tutucu
-Web sitenizin En Sonuna <?php include"log.php" ?>  Bu nu Yazark Log.php Yi Çekebilirsiniz
+Web sitenizine <?php include"log.php" ?>  Bu kodu Yazark Log.php Yi Çekebilirsiniz
+Web Sitenizin Dili php Olması Lazım
